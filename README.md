@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/2f7ffbd8-2f5d-4e46-b018-c3aaacaa9f5a)
+
 # Applied-Data-Science-Capstone-IBM
 # Overview
 The Applied Data Science Capstone Project serves as the culminating experience of the IBM Data Science Professional Certificate specialization. This project synthesizes the knowledge and skills acquired throughout the course series, culminating in a comprehensive analysis and predictive modeling exercise.
